@@ -58,7 +58,7 @@ The dataset used for this analysis contains job listings for Data Science roles 
 <img src="images/ml.png" width="500" height="400">
 
 ### Word Cloud of Skills Found for Data Engineer role
-<img src="images/DataEngineerrole.png" width="500" height="400">
+<img src="images/DataEngineerRole.png" width="500" height="400">
 
 ## How to Use
 
