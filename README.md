@@ -83,5 +83,5 @@ pip install -r requirements.txt
 
 ## Contributors
 
-- [Your Name](https://github.com/Aftabmallick)
+- [Aftab Mallick](https://github.com/Aftabmallick)
 
